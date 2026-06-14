@@ -1,0 +1,47 @@
+[
+  {
+    "scheme_name": "PM Kisan Samman Nidhi",
+    "marathi_name": "पीएम किसान सन्मान निधी",
+    "description": "शेतकऱ्यांना वर्षाला ₹6,000 थेट बँक खात्यात",
+    "eligible_doc_types": ["sale_deed", "loan_agreement"],
+    "conditions": "landowner",
+    "apply_url": "https://pmkisan.gov.in",
+    "amount": "₹6,000/वर्ष"
+  },
+  {
+    "scheme_name": "PMFBY Crop Insurance",
+    "marathi_name": "प्रधानमंत्री फसल विमा योजना",
+    "description": "पीक नुकसानीसाठी विमा संरक्षण",
+    "eligible_doc_types": ["sale_deed", "loan_agreement", "lease"],
+    "conditions": "farmer",
+    "apply_url": "https://pmfby.gov.in",
+    "amount": "नुकसानीनुसार"
+  },
+  {
+    "scheme_name": "Kisan Credit Card",
+    "marathi_name": "किसान क्रेडिट कार्ड",
+    "description": "कमी व्याजदरात शेती कर्ज (4% व्याज)",
+    "eligible_doc_types": ["sale_deed"],
+    "conditions": "landowner",
+    "apply_url": "https://www.nabard.org/content1.aspx?id=593",
+    "amount": "जमिनीनुसार"
+  },
+  {
+    "scheme_name": "Maharashtra Shetkari Sahayata Yojana",
+    "marathi_name": "महाराष्ट्र शेतकरी सहायता योजना",
+    "description": "कर्ज माफी आणि शेती मदत",
+    "eligible_doc_types": ["loan_agreement", "sale_deed"],
+    "conditions": "farmer",
+    "apply_url": "https://krishi.maharashtra.gov.in",
+    "amount": "₹2 लाखापर्यंत"
+  },
+  {
+    "scheme_name": "Maharashtra DLSA Free Legal Aid",
+    "marathi_name": "महाराष्ट्र मोफत कायदेशीर मदत",
+    "description": "कोणत्याही कायदेशीर प्रकरणात मोफत वकील",
+    "eligible_doc_types": ["sale_deed", "loan_agreement", "insurance", "lease", "power_of_attorney"],
+    "conditions": "all",
+    "apply_url": "https://msla.nic.in",
+    "amount": "मोफत"
+  }
+]
